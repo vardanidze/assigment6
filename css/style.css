@@ -1,0 +1,190 @@
+body {
+	background: #F5F5F5;
+}
+
+header {
+
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 100%;
+}
+
+.section {
+	margin-top: 100px;
+
+}
+
+
+.container {
+	width: 1170px;
+	margin: 0 auto;
+	margin-top: 21px;
+	
+}
+
+.li {
+	display: inline-block;
+	margin-right: 35px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.li a {
+	color: black;
+	vertical-align: middle;
+}
+
+.logo {
+	vertical-align: middle;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 50px;
+}
+
+
+
+.beach {
+	position: relative;
+}
+
+.text {
+	position: absolute;
+	top: 29%;
+	margin-left: 20px;
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+
+.white {
+	display: inline-block;
+	height: 360px ;
+	width: 360px;
+	margin-right: 25px;
+	margin-top: 50px;
+	background: white;
+	vertical-align: top;
+}
+
+.l img {
+	margin-left: 40px;
+	margin-top: 15px;
+}
+
+.clock {
+	vertical-align:middle;
+}
+
+
+p {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.p {
+	margin-top: 50px;
+}
+
+.m2 {
+	margin-top: 15px;
+}
+
+
+.para {
+	font-family: roboto;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+
+}
+
+.b,  {
+	margin-top: 50px;
+	vertical-align: top;
+	position: relative;
+	
+	
+}
+
+.f {
+	position: absolute;
+	right: 17%;
+}
+
+.e {
+	position: absolute;
+	right: 17%;
+	top: 117%;
+}
+
+
+.v {
+	margin-top: 50px;
+}
+
+.c {
+	position: absolute;
+	right: 17%;
+	top: 155%;
+}
+
+
+.footer {
+	width: 100%;
+	height: 201px;
+	background: #243043;
+	margin-top: 60px;
+}
+
+
+.ul a {
+	color: #818687;
+
+}
+
+
+.lif1, .lif2, .lif3 {
+	display: inline-block;
+	margin-top: 60px;
+}
+
+
+.lif3 li {
+	margin-bottom: 15px;
+	margin-right: 100px;
+}
+
+.lif2 li {
+		margin-bottom: 15px;
+		margin-right: 100px;
+
+
+}
+
+.lif1 li {
+		margin-bottom: 15px;
+		margin-right: 100px;
+
+
+}
+
+
+.bu {
+	position: absolute;
+	left: 90%;
+	top: 200%;
+
+	
+	
+
+
+
+
+}
+	
+
